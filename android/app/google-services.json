@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "133254912031",
+    "project_id": "project1-d4d62",
+    "storage_bucket": "project1-d4d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133254912031:android:5f9bb1f03fda0d00079d2a",
+        "android_client_info": {
+          "package_name": "com.example.login_firsebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133254912031-3fg4o3bdn7o2j9apn5g5kt8okmamtlgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KdicToAEXtPGWdkDpM4EXsxWJ1NOUwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133254912031-3fg4o3bdn7o2j9apn5g5kt8okmamtlgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133254912031:android:b60005454b7bcdf0079d2a",
+        "android_client_info": {
+          "package_name": "com.example.shopwhey_app_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133254912031-3fg4o3bdn7o2j9apn5g5kt8okmamtlgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KdicToAEXtPGWdkDpM4EXsxWJ1NOUwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133254912031-3fg4o3bdn7o2j9apn5g5kt8okmamtlgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
